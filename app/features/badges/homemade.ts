@@ -14,4 +14,9 @@ export const homemadeBadges: BadgeInfo[] = [
 	// 	fileName: "example",
 	// 	authorDiscordId: "123456789012345678",
 	// },
+	{
+		displayName: "THE SQUARE HOLE",
+		fileName: "squarehole",
+		authorDiscordId: "528851510222782474"
+	},
 ];
